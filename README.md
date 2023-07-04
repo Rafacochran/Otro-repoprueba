@@ -1,2 +1,1 @@
-# Otro-repoprueba
-es otro repositorio de prueba sobre git 
+Esto es otra prueba para el manejo de Git
